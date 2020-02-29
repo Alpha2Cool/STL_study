@@ -1,0 +1,35 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "D:\\software\\minGW\\mingw64\\include\\*",
+                "D:\\software\\minGW\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\7.3.0\\include\\*",
+                "D:\\software\\minGW\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\7.3.0\\include\\c++\\*",
+                "D:\\software\\minGW\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\7.3.0\\include\\c++\\mingw32\\*",
+                "D:\\software\\minGW\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\7.3.0\\include\\c++\\bits\\*"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "msvc-x64",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}",
+                    "D:\\software\\minGW\\mingw64\\include\\*",
+                    "D:\\software\\minGW\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\7.3.0\\include\\*",
+                    "D:\\software\\minGW\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\7.3.0\\include\\c++\\*",
+                    "D:\\software\\minGW\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\7.3.0\\include\\c++\\mingw32\\*",
+                    "D:\\software\\minGW\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\7.3.0\\include\\c++\\bits\\*"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            },
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
